@@ -1,4 +1,4 @@
-# 1701QCA Making Interaction - Assessment 2 workbook
+# 1701QCA Making Interaction - Assessment 3 workbook
 
 You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
 
