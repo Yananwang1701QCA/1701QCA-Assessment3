@@ -6,7 +6,6 @@
 *A floor cleaning and drying robot with Mecanum Wheels*
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 *Arduino Mecanum Wheels Robot*
@@ -73,7 +72,6 @@ This project is related to mine because *the difference with the fourth project 
 After seeing this project, I think my project can also use a small motor to control the rag to rotate, which gave me great inspiration.*.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
 ### *CleanSweep: The Floor Cleaning Robot* ###
 
@@ -125,9 +123,11 @@ Ensure you include comments about the choices you've made along the way.*
 Draft
 
 ![Image](draft.PNG)
+
 *Draft for Assessment02*
 
 ![Image](draft02.PNG)
+
 *Draft for Assessment03*
 
 
@@ -142,12 +142,12 @@ Code Screenshots
 
 Development
 
-![Image](development.PNG)
-![Image](development1.PNG)
-![Image](development2.PNG)
-![Image](development3.PNG)
-![Image](development4.PNG)
-![Image](development5.PNG)
+![Image](development06.PNG)
+![Image](development07.PNG)
+![Image](development08.PNG)
+![Image](development09.PNG)
+![Image](development10.PNG)
+![Image](development11.PNG)
 
 
 Youtube Video
