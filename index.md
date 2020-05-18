@@ -127,7 +127,7 @@ Draft
 ![Image](draft.PNG)
 *Draft for Assessment02*
 
-![Image](Image (54).jpeg)
+![Image](draft02.PNG)
 *Draft for Assessment03*
 
 
