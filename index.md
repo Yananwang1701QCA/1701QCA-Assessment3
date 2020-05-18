@@ -88,6 +88,14 @@ In this project, the rotating mop at the front of the robot and the foam roller 
 
 I think what attracted me the most about this project was that it looked more interesting and less like a floor mopping robot, breaking my stereotype of conventional robots.*
 
+### *FLOOR MOPPING Robot* ###
+
+![Image](RESEARCH03.PNG)
+*https://www.youtube.com/watch?v=ZnFSaMD7_pM
+
+
+This project gave me a different experience. The cleaning tools used by sweeping robots are not the only ones. They can be diverse and can be obtained locally. And the 3D printer and laser cut he used are very useful tools, although very troublesome.*
+
 
 ## Conceptual progress ##
 
