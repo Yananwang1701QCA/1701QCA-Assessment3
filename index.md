@@ -125,6 +125,10 @@ Ensure you include comments about the choices you've made along the way.*
 Draft
 
 ![Image](draft.PNG)
+*Draft for Assessment02*
+
+![Image](Image (54).jpeg)
+*Draft for Assessment03*
 
 
 
