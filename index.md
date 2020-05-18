@@ -72,7 +72,8 @@ This project is related to mine because *the difference with the fourth project 
 
 ![Image](RESEARCH01.PNG)
 
-This project is related to mine because *the difference with the fourth project is that this is simpler and the materials are more daily. But the device in front of it is more complicated and provides me with a good reference.*.
+After seeing this project, I think my project can also use a small motor to control the rag to rotate, which gave me great inspiration.*.
+
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
