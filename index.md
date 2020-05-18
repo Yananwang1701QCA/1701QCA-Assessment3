@@ -84,6 +84,15 @@ After seeing this project, I think my project can also use a small motor to cont
 
 In this project, the rotating mop at the front of the robot and the foam roller at the rear can complete the work well. There is also a water pump and water reservoir that can be opened when needed to sprinkle water on the floor and moisten the mop for proper cleaning. The foam roller is movable, which means that you can lift the foam roller when not in use. In addition, speed control is added to the drive motor in this robot. This project is still a bit complicated for me, but I am more clear about how my robot should be done.*
 
+### * Make a floor cleaning machine* ###
+
+![Image](RESEARCH02.PNG)
+*https://www.youtube.com/watch?v=05sZnyV6utM
+
+
+I think what attracted me the most about this project was that it looked more interesting and less like a floor mopping robot, breaking my stereotype of conventional robots.*
+
+
 ## Conceptual progress ##
 
 ### Design intent ###
