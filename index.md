@@ -168,7 +168,8 @@ Materials
 Youtube Video
 
 ![Image](video.PNG)
-https://www.youtube.com/watch?v=mmxhnRp_tpU
+https://youtu.be/ZwFAxUPYgks
+
 
 ## Design process discussion ##
 *In this session, I mainly upgraded the materials used by this robot to make this robot look more stable. I also replaced the two cleaning tools on the front and back of the robot with more functional tools. In the process of making, I realized that learning this course is not just learning programming, but also the patience and care in the process. Especially in such a special period, it is very difficult to calm down and slowly say that this robot is doing well. No matter what the result is, I have done it.*
